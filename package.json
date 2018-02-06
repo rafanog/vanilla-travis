@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/rafanog/vanilla-travis/issues"
   },
+  "dependencies": {
+    "xmlhttprequest": "1.8.0"
+  },
+  "devDependencies": {
+    "npm-check": "^5.5.2"
+  },
   "homepage": "https://github.com/rafanog/vanilla-travis#readme"
 }
