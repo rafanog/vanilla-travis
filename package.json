@@ -5,7 +5,7 @@
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npm-check --no-emoji --no-color"
   },
   "repository": {
     "type": "git",
@@ -17,7 +17,7 @@
     "url": "https://github.com/rafanog/vanilla-travis/issues"
   },
   "dependencies": {
-    "xmlhttprequest": "1.8.0"
+    "xmlhttprequest": "1.7.0"
   },
   "devDependencies": {
     "npm-check": "^5.5.2"
