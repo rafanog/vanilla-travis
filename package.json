@@ -17,7 +17,7 @@
     "url": "https://github.com/rafanog/vanilla-travis/issues"
   },
   "dependencies": {
-    "xmlhttprequest": "1.7.0"
+    "xmlhttprequest": "1.8.0"
   },
   "devDependencies": {
     "npm-check": "^5.5.2"
